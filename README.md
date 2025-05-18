@@ -27,8 +27,8 @@ Kaggle link: https://www.kaggle.com/lucamassaron/amazon-employee-access-challeng
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/WilliamKwanProgramming/access-control-policy-detection.git
+   cd access-control-policy-detection
    ```
 
 2. Create and activate a virtual environment:
