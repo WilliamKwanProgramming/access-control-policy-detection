@@ -1,4 +1,4 @@
-````markdown
+
 # ML-Based Assisted Access Control Action/Permission Prediction
 
 ## Description
@@ -29,7 +29,7 @@ Kaggle link: https://www.kaggle.com/lucamassaron/amazon-employee-access-challeng
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
    cd your-repo-name
-````
+   ```
 
 2. Create and activate a virtual environment:
 
